@@ -29,4 +29,10 @@
                   2> SBERT: model_instance_sbert = PreTrained_EmbeddingModels(model_url="all-MiniLM-L6-v2", model_name="Sentence BERT")._get_model()
                   3> MPNET: model_instance_mpnet = PreTrained_EmbeddingModels(model_url="sentence-transformers/all-mpnet-base-v2", model_name="MPNET")._get_model()
                   
+4. See the comparisons of the results of various models on different embeddings in the folder "Comparisons".
+
+5. See the data representation and the results plot in the folder "Visualization".
+
+6. See all the 3 project reports in the folder "Summary".
+                  
                   
